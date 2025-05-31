@@ -46,8 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Aathithya P R",
-    p: ["Software Developer | UI/UX Enthusiast | OpenCV Explorer",
-        "Passionate about solving real-world problems with Python, designing user-friendly interfaces, and building web solutions using modern tools."],
+    p: ["Software Developer | UI/UX Enthusiast | OpenCV Explorer"],
   },
   contact: {
     p: "Get in touch",
